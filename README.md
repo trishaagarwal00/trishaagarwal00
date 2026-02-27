@@ -1,4 +1,6 @@
-<img width="919" height="825" alt="freepik__adjust__47922" src="https://github.com/user-attachments/assets/ede10cc2-b691-4b79-bc7c-ff99292dde56" />
+<img width="400" height="400" alt="freepik__adjust__47922" src="https://github.com/user-attachments/assets/ede10cc2-b691-4b79-bc7c-ff99292dde56" />
+
+
 ## Hi 👋 I'm Trisha
 I am a Computer Science student with a strong interest in problem-solving and software development.  
 I enjoy building efficient solutions using clean and structured code.
