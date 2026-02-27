@@ -1,4 +1,6 @@
-![Coding GIF](https://lottiefiles.com/free-animation/girl-on-computer-with-idea-vKx1wtZe5l)
+<p align="center">
+  <img src="(https://lottiefiles.com/free-animation/girl-on-computer-with-idea-vKx1wtZe5l)" width="400">
+</p>
 ## Hi 👋 I'm Trisha
 I am a Computer Science student with a strong interest in problem-solving and software development.  
 I enjoy building efficient solutions using clean and structured code.
