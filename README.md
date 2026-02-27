@@ -1,5 +1,6 @@
-<img width="400" height="400" alt="freepik__adjust__47922" src="https://github.com/user-attachments/assets/ede10cc2-b691-4b79-bc7c-ff99292dde56" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ede10cc2-b691-4b79-bc7c-ff99292dde56" width="200" height="200" alt="Profile Image"/>
+</p>
 
 ## Hi 👋 I'm Trisha
 I am a Computer Science student with a strong interest in problem-solving and software development.  
