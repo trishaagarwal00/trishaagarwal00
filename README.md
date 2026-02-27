@@ -1,8 +1,7 @@
+## Hi 👋 I'm Trisha
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ede10cc2-b691-4b79-bc7c-ff99292dde56" width="600" height="800" alt="Profile Image"/>
 </p>
-
-## Hi 👋 I'm Trisha
 I am a Computer Science student with a strong interest in problem-solving and software development.  
 I enjoy building efficient solutions using clean and structured code.
 
