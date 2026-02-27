@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ede10cc2-b691-4b79-bc7c-ff99292dde56" width="600" height="900" alt="Profile Image"/>
+  <img src="https://github.com/user-attachments/assets/ede10cc2-b691-4b79-bc7c-ff99292dde56" width="600" height="800" alt="Profile Image"/>
 </p>
 
 ## Hi 👋 I'm Trisha
