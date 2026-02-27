@@ -1,13 +1,17 @@
 ## Hi 👋 I'm Trisha
+I am a Computer Science student with a strong interest in problem-solving and software development.  
+I enjoy building efficient solutions using clean and structured code.
+🎓 Computer Science Undergraduate  
+💻 Strong foundation in Data Structures & Algorithms  
+🚀 Interested in Software Development and Problem Solving  
+📌 Currently working on improving system design and backend fundamentals  
+📫 Open to internships and collaborative projects   
 
-🎓 Computer Science Student  
-💻 Passionate about DSA & Development  
-🚀 Currently learning Java & Git  
 
 ---
 
 ## 🛠️ Languages & Tools
-- Java ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- Java 
 - JavaScript
 - Git
 - VS Code
