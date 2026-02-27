@@ -55,8 +55,9 @@ An interactive restaurant browsing and cart management application.
 
 ## 🏆 Achievements & Certifications
 
-- 🧠 Solved **300+ coding problems** on LeetCode and GeeksforGeeks  
-  🔗 LeetCode Profile: https://leetcode.com/u/TrishaAgarwal/
+- 🧠 Solved **300+ coding problems** on LeetCode and GeeksforGeeks
+  
+ - 🔗 LeetCode Profile: https://leetcode.com/u/TrishaAgarwal/
 
 - 📜 Certifications:
   - Java for Beginners – Infosys  
@@ -68,8 +69,11 @@ An interactive restaurant browsing and cart management application.
 ## 📫 Let's Connect!
 
 📩 Email: trishagarwal07102004@gmail.com 
+
 🔗 LinkedIn: https://www.linkedin.com/in/trisha-agarwal-aaa386311/
+
 🐙 GitHub: https://github.com/trishaagarwal00
+
 
 ---
 
